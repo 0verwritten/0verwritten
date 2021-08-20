@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheSimpleWriter
+- 👋 Hi, I’m @0verwritten
 - 👀 I’m interested in developing useful and fun projects
 - 🌱 I’m currently learning rust
 - 📫 How to reach me:
