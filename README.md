@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0verwritten
 - 👀 I’m interested in developing useful and fun projects
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning .net
 - 📫 How to reach me:
 -- Telegram: @aSlade
 -- Email: simplepcwriter@gmail.com
