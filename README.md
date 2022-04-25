@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing useful and fun projects
 - 🌱 I’m currently learning .net
 - 📫 How to reach me:
--- Telegram: @aSlade
+-- Telegram: @mainmisleader
 -- Email: simplepcwriter@gmail.com
 
 <!---
